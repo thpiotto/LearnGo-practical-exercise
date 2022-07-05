@@ -21,7 +21,7 @@ package main
 import "fmt"
 
 type gopher int
- 
+
 var x gopher
 var y int
 
